@@ -1,0 +1,23 @@
+{
+  "name": "library-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CalculateGrade.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbyNeko/Library-Scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbbyNeko/Library-Scripts/issues"
+  },
+  "homepage": "https://github.com/AbbyNeko/Library-Scripts#readme"
+}

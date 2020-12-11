@@ -22,3 +22,5 @@ function getGrade(score) {
     }
     return grade;
 }
+
+module.exports = getGrade;
